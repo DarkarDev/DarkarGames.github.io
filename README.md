@@ -1,2 +1,2 @@
-# DarkarGames.github.io
-Pagina de publicación de diferentes programas
+# LocoProjects
+Pendejazo que optimiza cualquier cosa
